@@ -9,5 +9,5 @@ Architecture: iphoneos-arm
 Section: Themes (SpringBoard)
 Size: 5472476
 Filename: ./debs/com.macciti.splendore_2.4_iphoneos-arm.deb
-Icon: file:///Library/Themes/Splendore.theme/IconBundles/com.apple.mobileslideshow-large
+Icon: file:///Library/Themes/Splendore.theme/IconBundles/com.apple.mobileslideshow-large.png
 MD5Sum: aa0d546e8deb4548d83dfe44e25dc328
