@@ -1,0 +1,13 @@
+Package: com.macciti.splendore
+Name: Splendore
+Version: 2.4
+Author: RauseoThemes <rauseothemes@yahoo.com>
+Maintainer: RauseoThemes <rauseothemes@yahoo.com>
+Description: Exclusive beta of Splendore
+Depiction: https://rauseo12.github.io/repo/depictions/index.html
+Architecture: iphoneos-arm
+Section: Themes
+Size: 5472593
+Filename: ./debs/com.macciti.splendore_2.4_iphoneos-arm.deb
+Icon: file:///Library/Themes/Splendore.theme/IconBundles/com.apple.mobileslideshow-large
+MD5Sum: c26bce3a73fcdefdc3f65b0f8a7f7665
