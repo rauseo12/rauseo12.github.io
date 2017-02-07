@@ -7,7 +7,7 @@ Description: Exclusive beta of Splendore
 Depiction: https://rauseo12.github.io/repo/depictions/index.html
 Architecture: iphoneos-arm
 Section: Themes (SpringBoard)
-Size: 5472476
+Size: 5472032
 Filename: ./debs/com.macciti.splendore_2.4_iphoneos-arm.deb
 Icon: file:///Library/Themes/Splendore.theme/IconBundles/com.apple.mobileslideshow-large.png
-MD5Sum: aa0d546e8deb4548d83dfe44e25dc328
+MD5Sum: 1125ff22acfe3801e1df78d0361a3410
