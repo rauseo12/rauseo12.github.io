@@ -1,0 +1,9 @@
+Package: com.macciti.splendore
+Name: Splendore
+Version: 2.4
+Author: RauseoThemes <rauseothemes@yahoo.com>
+Maintainer: RauseoThemes <rauseothemes@yahoo.com>
+Description: Exclusive beta of Splendore
+Depiction: https://rauseo12.github.io/repo/depictions/index.html
+Architecture: iphoneos-arm
+Section: Themes (SpringBoard)
